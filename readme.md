@@ -1,6 +1,6 @@
 # NFE Verifier
 
-It's meant only for take a brazilian NFe - Nota Fiscal Eletrônica Brasileira - and verify if its integrity through XML-signature digest checking
+Take a brazilian NFe - Nota Fiscal Eletrônica Brasileira - and verify if its integrity through XML-signature digest checking
 
 ## Running setup
 
